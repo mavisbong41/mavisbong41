@@ -73,16 +73,38 @@ Behavioral-finance web experience where market movement becomes an interactive 3
 ### Toolbox
 
 **Languages**  
-`Python` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+![Python](https://img.shields.io/badge/Python-14532d?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-166534?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-15803d?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-16a34a?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-22c55e?style=for-the-badge&logo=css3&logoColor=white)
 
 **Building With**  
-`React` · `FastAPI` · `PostgreSQL` · `Docker` · `Vite` · `Three.js`
+
+![React](https://img.shields.io/badge/React-14532d?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-166534?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15803d?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-16a34a?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-22c55e?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-14532d?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 **Data / ML / Integration**  
-`Microsoft Graph` · `MongoDB` · `Firebase` · `scikit-learn` · `TensorFlow.js`
+
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-14532d?style=for-the-badge&logo=microsoft&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-15803d?style=for-the-badge&logo=firebase&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-16a34a?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-22c55e?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-### Connect
+### GitHub Stats
 
-[LinkedIn ↗](https://linkedin.com/in/zi-shan-bong/)
+<div align="center">
+
+![Bong Zi Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavisbong41&show_icons=true&hide_border=true&bg_color=ecfdf5&title_color=14532d&text_color=166534&icon_color=16a34a)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavisbong41&layout=compact&hide_border=true&bg_color=ecfdf5&title_color=14532d&text_color=166534)
+
+</div>
